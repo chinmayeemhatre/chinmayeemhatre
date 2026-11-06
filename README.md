@@ -41,7 +41,7 @@
 
 <!-- ================= ABOUT ME ================= -->
 
-<h2 align="center">🌸 About Me</h2>
+<h2 align="center">About Me</h2>
 
 <table align="center">
 <tr>
@@ -84,31 +84,31 @@ I'm a Computer Science and Engineering student passionate about technology, crea
 
 <div align="center">
 
-### 👩‍💻 Programming Languages
+###  Programming Languages
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,js&theme=dark" alt="Programming Languages"/>
 
 <br/><br/>
 
-### 🌐 Web & App Development
+###  Web & App Development
 
 <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,flutter,django&theme=dark" alt="Web Development"/>
 
 <br/><br/>
 
-### 🗄️ Database & Backend
+###  Database & Backend
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,fastapi&theme=dark" alt="Database and Backend"/>
 
 <br/><br/>
 
-### 🔐 Cybersecurity & Development Tools
+###  Cybersecurity & Development Tools
 
 <img src="https://skillicons.dev/icons?i=linux,kali,git,github,vscode,postman,arduino&theme=dark" alt="Development Tools"/>
 
 <br/><br/>
 
-### ⛓️ Blockchain
+###  Blockchain
 
 <img src="https://skillicons.dev/icons?i=solidity&theme=dark" alt="Blockchain"/>
 
@@ -148,7 +148,7 @@ I'm a Computer Science and Engineering student passionate about technology, crea
 
 <!-- ================= CONTRIBUTION GRAPH ================= -->
 
-<h2 align="center">🌷 Contribution Activity</h2>
+<h2 align="center"> Contribution Activity</h2>
 
 <div align="center">
   <img
