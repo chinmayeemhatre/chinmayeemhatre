@@ -148,12 +148,12 @@ I'm a Computer Science and Engineering student passionate about technology, crea
 
 <!-- ================= CONTRIBUTION SNAKE ================= -->
 
-<h2 align="center">🐍 Watch My Contributions Get Eaten!</h2>
-
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/chinmayeemhatre/chinmayeemhatre/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake"/>
-
+  <img
+    src="https://raw.githubusercontent.com/chinmayeemhatre/chinmayeemhatre/output/snake.svg"
+    width="100%"
+    alt="Chinmayee Hollow Contribution Snake"
+  />
 </div>
 
 <!--
