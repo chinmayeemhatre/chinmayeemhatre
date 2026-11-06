@@ -16,12 +16,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Pink Snake
+      - name: Generate Subtle Pink Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: chinmayeemhatre
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%23FF69B4&color_dots=%23FCE4EC,%23F8BBD0,%23EF93C4,%23EC4899,%23FF69B4
+            dist/github-contribution-grid-snake.svg?color_snake=%23A17D96&color_dots=%23161B22,%2329232D,%23493746,%2370546B,%23A17D96
 
       - name: Deploy Snake
         uses: crazy-max/ghaction-github-pages@v4
