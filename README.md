@@ -143,9 +143,11 @@ I'm a Computer Science and Engineering student passionate about technology, crea
 <h2 align="center">🌷 Contribution Activity</h2>
 
 <div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=chinmayeemhatre&bg_color=0D1117&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&area_color=EF93C4&hide_border=true&custom_title=My%20GitHub%20Activity" alt="GitHub Activity Graph"/>
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=chinmayeemhatre&theme=github-compact"
+    width="95%"
+    alt="GitHub Activity Graph"
+  />
 </div>
 
 ---
