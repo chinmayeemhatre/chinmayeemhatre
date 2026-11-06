@@ -146,20 +146,6 @@ I'm a Computer Science and Engineering student passionate about technology, crea
 
 ---
 
-<!-- ================= CONTRIBUTION GRAPH ================= -->
-
-<h2 align="center"> Contribution Activity</h2>
-
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=chinmayeemhatre&bg_color=0D1117&color=F8BBD0&line=FF69B4&point=EF93C4&area=true&hide_border=true"
-    width="95%"
-    alt="Chinmayee GitHub Activity Graph"
-  />
-</div>
-
----
-
 <!-- ================= CONTRIBUTION SNAKE ================= -->
 
 <h2 align="center">🐍 Watch My Contributions Get Eaten!</h2>
