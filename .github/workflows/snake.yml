@@ -34,8 +34,8 @@ jobs:
           for rect in root.iter():
               if rect.tag.endswith("rect"):
                   rect.set("fill", "none")
-                  rect.set("stroke", "#493746")
-                  rect.set("stroke-width", "1.5")
+                  rect.set("stroke", "#A17D96")
+                  rect.set("stroke-width", "1")
 
           tree.write(path, encoding="utf-8", xml_declaration=True)
           PY
