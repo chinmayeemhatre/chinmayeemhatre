@@ -122,17 +122,25 @@ I'm a Computer Science and Engineering student passionate about technology, crea
 
 <div align="center">
 
-<a href="https://github.com/chinmayeemhatre">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=chinmayeemhatre&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0" alt="GitHub Stats"/>
-</a>
-
-<a href="https://github.com/chinmayeemhatre">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmayeemhatre&layout=compact&hide_border=true&bg_color=0D1117&title_color=EF93C4&text_color=F8BBD0&langs_count=8" alt="Top Languages"/>
-</a>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chinmayeemhatre&theme=radical"
+  width="95%"
+  alt="GitHub Profile Details"
+/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=chinmayeemhatre&theme=transparent&hide_border=true&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=F8BBD0&currStreakNum=FF69B4&sideNums=FF69B4&dates=F8BBD0" alt="GitHub Streak"/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chinmayeemhatre&theme=radical"
+  width="46%"
+  alt="GitHub Statistics"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chinmayeemhatre&theme=radical"
+  width="46%"
+  alt="Most Used Languages"
+/>
 
 </div>
 
